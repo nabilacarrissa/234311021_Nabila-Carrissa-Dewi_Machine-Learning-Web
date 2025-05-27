@@ -1,4 +1,4 @@
-import joblib
+import pickle as joblib
 import streamlit as st
 import pandas as pd
 import os
